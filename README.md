@@ -25,6 +25,7 @@ An analysis of video-game sales and market trends, exploring how commercial perf
 
 - [Historical Stock and Revenue Analysis](https://github.com/olafisoyetope44-ship-it/Analyzing-Historical-Stocks-Revenue-Data)
 - [Keratoconus Detection](https://github.com/olafisoyetope44-ship-it/Keratoconus)
+- [Retail-Sales Analysis()]
 
 ## Technical Skills
 
